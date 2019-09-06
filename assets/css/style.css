@@ -1,4 +1,18 @@
 
 body {
-    background-color: aquamarine
+    /* background-color: aquamarine; */
+    background-image: url("../images/space.jpg");
+}
+
+.container {
+    background-color: azure;
+    color: black;
+    height: 600px;
+    width: 700px;
+    margin-top: 200px;
+    padding: 10px;
+    text-align: center;
+    
+    
+
 }
