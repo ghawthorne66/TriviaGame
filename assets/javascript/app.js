@@ -29,6 +29,7 @@ var unanswered = 0;
 var questions = ["q1", "q2", "q3","q4"];
 var answers = [["a1","a2", "a3", "a4"],["a1","a2", "a3", "a4"],["a1","a2", "a3", "a4"],["a1","a2", "a3", "a4"]]
 
+
 $("#start").click(function(){
     start()
   });
