@@ -10,7 +10,7 @@ $(document).ready(function () {
 var gameState = {
 
     // set the time at 60 seconds, and count down by 1 second
-    timeRemaining: 660,
+    timeRemaining: 60,
 
     // start the timer, hide the start page, show the questions
     startTimer: function () {
