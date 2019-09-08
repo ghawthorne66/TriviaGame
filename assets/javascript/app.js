@@ -10,7 +10,7 @@ $(document).ready(function () {
 var gameState = {
 
     // set the time at 60 seconds, and count down by 1 second
-    timeRemaining: 60,
+    timeRemaining: 660,
 
     // start the timer, hide the start page, show the questions
     startTimer: function () {
@@ -127,7 +127,7 @@ var questionBank =
             correct: "Quanta"
         },
         {
-            question: "What what the namWhen two particles are entangled and it is observed that one has its spin up, how long does it take for the other’s spin to be down?e of Bart's elephant?",
+            question: "When two particles are entangled and it is observed that one has its spin up, how long does it take for the other’s spin to be down?",
             answers: ["Instantaneously", "1 nanosecond", "1 microsecond", "1 millisecond"],
             correct: "Instantaneously"
         },
